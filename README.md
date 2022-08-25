@@ -1,1 +1,2 @@
-My first readme
+This is my first readme ever!
+I dont know what else to write again... 
